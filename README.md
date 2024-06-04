@@ -1,41 +1,34 @@
 # uiFry
 
-uiFry is a web application designed to help users make the best financial decisions. It provides various features and tools to manage finances effectively.
-
 ## Table of Contents
-
-- [Demo](#demo)
+- [Description](#description)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
-## Demo
-
-You can view a live demo of the project [here](#).
+## Description
+uiFry is a financial decision-making web application designed to help users manage their finances effectively.
 
 ## Features
-
-- Budgeting intervals
-- Clever notifications
-- Fully customizable interface
-- Responsive design
-- Animated components using AOS (Animate on Scroll) library
+- Budgeting Intervals
+  - Description: Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.
+- Clever Notifications
+  - Description: Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris etiam odio. Duis tristique lacus, et blandit viverra nisl velit. Sed mattis rhoncus, diam suspendisse sit nunc, gravida eu. Lectus eget eget ac dolor neque lorem sapien, suspendisse aliquam.
+- Fully Customizable
+  - Description: Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris etiam odio. Duis tristique lacus, et blandit viverra nisl velit. Sed mattis rhoncus, diam suspendisse sit nunc, gravida eu. Lectus eget eget ac dolor neque lorem sapien, suspendisse aliquam.
 
 ## Installation
+Clone the repository and open the `index.html` file in your web browser.
 
-To get a local copy up and running, follow these steps:
+## Usage
+1. Open the application in your web browser.
+2. Navigate through the different sections to explore its features.
+3. Follow the on-screen instructions to utilize the functionalities effectively.
 
-### Prerequisites
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-Make sure you have the following installed:
-
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
-
-### Clone the Repository
-
-```sh
-git clone https://github.com/your-username/your-repository.git
+## License
+This project is licensed under the [MIT License](LICENSE).
